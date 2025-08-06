@@ -1,0 +1,7 @@
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\dcit318-assignment2-11342871\Assignment2-11342871\Assignment2-11342871\bin\Debug\Assignment2-11342871.exe.config
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\dcit318-assignment2-11342871\Assignment2-11342871\Assignment2-11342871\bin\Debug\Assignment2-11342871.exe
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\dcit318-assignment2-11342871\Assignment2-11342871\Assignment2-11342871\bin\Debug\Assignment2-11342871.pdb
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\dcit318-assignment2-11342871\Assignment2-11342871\Assignment2-11342871\obj\Debug\Assignment2-11342871.csproj.AssemblyReference.cache
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\dcit318-assignment2-11342871\Assignment2-11342871\Assignment2-11342871\obj\Debug\Assignment2-11342871.csproj.CoreCompileInputs.cache
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\dcit318-assignment2-11342871\Assignment2-11342871\Assignment2-11342871\obj\Debug\Assignment2-11342871.exe
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\dcit318-assignment2-11342871\Assignment2-11342871\Assignment2-11342871\obj\Debug\Assignment2-11342871.pdb
