@@ -1,2 +1,43 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace Assignment2
+{
+    class Animal
+    {
+        public virtual void MakeSound()
+        {
+            Console.WriteLine("Some generic sound");
+        }
+    }
+
+    class Dog : Animal
+    {
+        public override void MakeSound()
+        {
+            Console.WriteLine("Bark");
+        }
+    }
+
+    class Cat : Animal
+    {
+        public override void MakeSound()
+        {
+            Console.WriteLine("Meow");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Animal myAnimal = new Animal();
+            Animal myDog = new Dog();
+            Animal myCat = new Cat();
+
+            myAnimal.MakeSound();  // Outputs: Some generic sound
+            myDog.MakeSound();     // Outputs: Bark
+            myCat.MakeSound();     // Outputs: Meow
+        }
+    }
+}
+
